@@ -1,0 +1,4 @@
+﻿  ProjectASection7.cpp
+C:\Users\th3do\OneDrive\Desktop\Project-COSC-1336-007\ProjectASection7\ProjectASection7.cpp(158,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\th3do\OneDrive\Desktop\Project-COSC-1336-007\ProjectASection7\ProjectASection7.cpp(288,20): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ProjectASection7.vcxproj -> C:\Users\th3do\OneDrive\Desktop\Project-COSC-1336-007\ProjectASection7\x64\Debug\ProjectASection7.exe
